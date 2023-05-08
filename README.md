@@ -26,7 +26,3 @@ To run the API locally, you'll need to have Node.js and MongoDB installed. Then,
 4. Create a `.env` file in the root directory of the API, and populate it with your MongoDB connection information and JWT secret key.
 5. Run `npm run start:dev` to start the development server.
 
-## Contributing
-
-If you'd like to contribute to the FreeCodeHub project, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get started.
-
